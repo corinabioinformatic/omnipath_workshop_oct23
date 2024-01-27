@@ -1,0 +1,189 @@
+[2024-01-27 23:22:28] [INFO]    [OmnipathR] Welcome to OmnipathR!
+[2024-01-27 23:22:28] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:22:28] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:22:28] [INFO]    [OmnipathR] Initialized cache: `C:\Users\KD\AppData\Local\cache\OmnipathR`.
+[2024-01-27 23:22:28] [TRACE]   [OmnipathR] Reading JSON from `C:/Users/KD/AppData/Local/R/win-library/4.3/OmnipathR/db/db_def.json` (encoding: UTF-8).
+[2024-01-27 23:22:28] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:22:28] [TRACE]   [OmnipathR] Reading JSON from `C:/Users/KD/AppData/Local/R/win-library/4.3/OmnipathR/internal/magic_bytes.json` (encoding: UTF-8).
+[2024-01-27 23:22:28] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:22:28] [TRACE]   [OmnipathR] Reading JSON from `C:/Users/KD/AppData/Local/R/win-library/4.3/OmnipathR/internal/urls.json` (encoding: UTF-8).
+[2024-01-27 23:22:28] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:22:28] [TRACE]   [OmnipathR] Reading JSON from `C:/Users/KD/AppData/Local/R/win-library/4.3/OmnipathR/internal/id_types.json` (encoding: UTF-8).
+[2024-01-27 23:22:28] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:22:35] [INFO]    [OmnipathR] Welcome to OmnipathR!
+[2024-01-27 23:22:35] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:22:35] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:22:35] [INFO]    [OmnipathR] Initialized cache: `C:\Users\KD\AppData\Local\cache\OmnipathR`.
+[2024-01-27 23:22:35] [TRACE]   [OmnipathR] Reading JSON from `C:/Users/KD/AppData/Local/R/win-library/4.3/OmnipathR/db/db_def.json` (encoding: UTF-8).
+[2024-01-27 23:22:35] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:22:35] [TRACE]   [OmnipathR] Reading JSON from `C:/Users/KD/AppData/Local/R/win-library/4.3/OmnipathR/internal/magic_bytes.json` (encoding: UTF-8).
+[2024-01-27 23:22:35] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:22:35] [TRACE]   [OmnipathR] Reading JSON from `C:/Users/KD/AppData/Local/R/win-library/4.3/OmnipathR/internal/urls.json` (encoding: UTF-8).
+[2024-01-27 23:22:35] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:22:35] [TRACE]   [OmnipathR] Reading JSON from `C:/Users/KD/AppData/Local/R/win-library/4.3/OmnipathR/internal/id_types.json` (encoding: UTF-8).
+[2024-01-27 23:22:35] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:22:41] [INFO]    [OmnipathR] Loading database `Ensembl and OMA organism names`.
+[2024-01-27 23:22:41] [INFO]    [OmnipathR] Looking up in cache `https://www.ensembl.org/info/about/species.html`: key=7332486db7400730697234bad76ca0c8e4d00799, latest version=1.
+[2024-01-27 23:22:41] [TRACE]   [OmnipathR] Cache file path: C:\Users\KD\AppData\Local\cache\OmnipathR/7332486db7400730697234bad76ca0c8e4d00799-1.html
+[2024-01-27 23:22:42] [TRACE]   [OmnipathR] Looking up in cache: `https://omabrowser.org/All/oma-species.txt`.
+[2024-01-27 23:22:42] [TRACE]   [OmnipathR] Loaded data from RDS `C:\Users\KD\AppData\Local\cache\OmnipathR/30e690cbb55dfc63b5903ab337f34ffc2f4be397-1.rds`.
+[2024-01-27 23:22:42] [INFO]    [OmnipathR] Loaded database `Ensembl and OMA organism names`.
+[2024-01-27 23:22:42] [TRACE]   [OmnipathR] Looking up in cache: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=dorothea,tf_target,collectri&organisms=9606&dorothea_levels=A,B&fields=sources,references,curation_effort,dorothea_level&license=academic`
+[2024-01-27 23:22:43] [TRACE]   [OmnipathR] Loaded data from RDS `C:\Users\KD\AppData\Local\cache\OmnipathR/8e1fed15bbe7704374f40d278e719e18b4a9d60f-1.rds`.
+[2024-01-27 23:22:43] [INFO]    [OmnipathR] Loaded from cache: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=dorothea,tf_target,collectri&organisms=9606&dorothea_levels=A,B&fields=sources,references,curation_effort,dorothea_level&license=academic`
+[2024-01-27 23:22:45] [SUCCESS] [OmnipathR] Loaded 128218 interactions from cache.
+[2024-01-27 23:36:28] [TRACE]   [OmnipathR] Looking up in cache: `https://omnipathdb.org/enzsub?genesymbols=yes&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:36:28] [INFO]    [OmnipathR] Cache record does not exist: `https://omnipathdb.org/enzsub?genesymbols=yes&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:36:28] [TRACE]   [OmnipathR] Looking up in cache: `http://no-tls.omnipathdb.org/enzsub?genesymbols=yes&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:36:28] [INFO]    [OmnipathR] Cache record does not exist: `http://no-tls.omnipathdb.org/enzsub?genesymbols=yes&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:36:28] [TRACE]   [OmnipathR] Attempting `https://omnipathdb.org/enzsub?genesymbols=yes&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:36:28] [INFO]    [OmnipathR] Retrieving URL: `https://omnipathdb.org/enzsub?genesymbols=yes&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:36:28] [TRACE]   [OmnipathR] Attempt 1/3: `https://omnipathdb.org/enzsub?genesymbols=yes&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:36:29] [INFO]    [OmnipathR] Successfully retrieved: `https://omnipathdb.org/enzsub?genesymbols=yes&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:36:29] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:36:29] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:36:29] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:36:29] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:36:29] [INFO]    [OmnipathR] Cache item `a6f560033dff45b503a8016c14c974c4c04b5967` version 1: status changed from `unknown` to `started`.
+[2024-01-27 23:36:29] [TRACE]   [OmnipathR] Exporting object to RDS: `C:\Users\KD\AppData\Local\cache\OmnipathR/a6f560033dff45b503a8016c14c974c4c04b5967-1.rds`.
+[2024-01-27 23:36:29] [TRACE]   [OmnipathR] Exported RDS to `C:\Users\KD\AppData\Local\cache\OmnipathR/a6f560033dff45b503a8016c14c974c4c04b5967-1.rds`.
+[2024-01-27 23:36:29] [INFO]    [OmnipathR] Download ready [key=a6f560033dff45b503a8016c14c974c4c04b5967, version=1]
+[2024-01-27 23:36:29] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:36:29] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:36:29] [INFO]    [OmnipathR] Cache item `a6f560033dff45b503a8016c14c974c4c04b5967` version 1: status changed from `started` to `ready`.
+[2024-01-27 23:36:31] [SUCCESS] [OmnipathR] Downloaded 43269 enzyme-substrate relationships.
+[2024-01-27 23:37:15] [TRACE]   [OmnipathR] Looking up in cache: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=omnipath&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:37:15] [INFO]    [OmnipathR] Cache record does not exist: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=omnipath&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:37:15] [TRACE]   [OmnipathR] Looking up in cache: `http://no-tls.omnipathdb.org/interactions?genesymbols=yes&datasets=omnipath&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:37:15] [INFO]    [OmnipathR] Cache record does not exist: `http://no-tls.omnipathdb.org/interactions?genesymbols=yes&datasets=omnipath&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:37:15] [TRACE]   [OmnipathR] Attempting `https://omnipathdb.org/interactions?genesymbols=yes&datasets=omnipath&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:37:15] [INFO]    [OmnipathR] Retrieving URL: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=omnipath&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:37:15] [TRACE]   [OmnipathR] Attempt 1/3: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=omnipath&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:37:17] [INFO]    [OmnipathR] Successfully retrieved: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=omnipath&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-01-27 23:37:17] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:37:17] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:37:17] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:37:17] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:37:17] [INFO]    [OmnipathR] Cache item `a7b21d9d80a3837a50268df16d168128fc1c6ede` version 1: status changed from `unknown` to `started`.
+[2024-01-27 23:37:17] [TRACE]   [OmnipathR] Exporting object to RDS: `C:\Users\KD\AppData\Local\cache\OmnipathR/a7b21d9d80a3837a50268df16d168128fc1c6ede-1.rds`.
+[2024-01-27 23:37:18] [TRACE]   [OmnipathR] Exported RDS to `C:\Users\KD\AppData\Local\cache\OmnipathR/a7b21d9d80a3837a50268df16d168128fc1c6ede-1.rds`.
+[2024-01-27 23:37:18] [INFO]    [OmnipathR] Download ready [key=a7b21d9d80a3837a50268df16d168128fc1c6ede, version=1]
+[2024-01-27 23:37:18] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:37:18] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:37:18] [INFO]    [OmnipathR] Cache item `a7b21d9d80a3837a50268df16d168128fc1c6ede` version 1: status changed from `started` to `ready`.
+[2024-01-27 23:37:19] [SUCCESS] [OmnipathR] Downloaded 81529 interactions.
+[2024-01-27 23:37:37] [TRACE]   [OmnipathR] Looking up in cache: `https://omnipathdb.org/complexes?license=academic`
+[2024-01-27 23:37:37] [INFO]    [OmnipathR] Cache record does not exist: `https://omnipathdb.org/complexes?license=academic`
+[2024-01-27 23:37:37] [TRACE]   [OmnipathR] Looking up in cache: `http://no-tls.omnipathdb.org/complexes?license=academic`
+[2024-01-27 23:37:37] [INFO]    [OmnipathR] Cache record does not exist: `http://no-tls.omnipathdb.org/complexes?license=academic`
+[2024-01-27 23:37:37] [TRACE]   [OmnipathR] Attempting `https://omnipathdb.org/complexes?license=academic`
+[2024-01-27 23:37:37] [INFO]    [OmnipathR] Retrieving URL: `https://omnipathdb.org/complexes?license=academic`
+[2024-01-27 23:37:37] [TRACE]   [OmnipathR] Attempt 1/3: `https://omnipathdb.org/complexes?license=academic`
+[2024-01-27 23:37:38] [INFO]    [OmnipathR] Successfully retrieved: `https://omnipathdb.org/complexes?license=academic`
+[2024-01-27 23:37:38] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:37:38] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:37:38] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:37:38] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:37:38] [INFO]    [OmnipathR] Cache item `d562abda40303226daf98b436df9cb85eaeb2ef3` version 1: status changed from `unknown` to `started`.
+[2024-01-27 23:37:38] [TRACE]   [OmnipathR] Exporting object to RDS: `C:\Users\KD\AppData\Local\cache\OmnipathR/d562abda40303226daf98b436df9cb85eaeb2ef3-1.rds`.
+[2024-01-27 23:37:38] [TRACE]   [OmnipathR] Exported RDS to `C:\Users\KD\AppData\Local\cache\OmnipathR/d562abda40303226daf98b436df9cb85eaeb2ef3-1.rds`.
+[2024-01-27 23:37:38] [INFO]    [OmnipathR] Download ready [key=d562abda40303226daf98b436df9cb85eaeb2ef3, version=1]
+[2024-01-27 23:37:38] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:37:38] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:37:38] [INFO]    [OmnipathR] Cache item `d562abda40303226daf98b436df9cb85eaeb2ef3` version 1: status changed from `started` to `ready`.
+[2024-01-27 23:37:38] [SUCCESS] [OmnipathR] Downloaded 35459 protein complexes.
+[2024-01-27 23:38:56] [TRACE]   [OmnipathR] Reading JSON from `https://omnipathdb.org/resources` (encoding: UTF-8).
+[2024-01-27 23:38:56] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:38:56] [TRACE]   [OmnipathR] Looking up in cache: `https://omnipathdb.org/annotations?resources=UniProt_location&license=academic`
+[2024-01-27 23:38:56] [INFO]    [OmnipathR] Cache record does not exist: `https://omnipathdb.org/annotations?resources=UniProt_location&license=academic`
+[2024-01-27 23:38:56] [TRACE]   [OmnipathR] Looking up in cache: `http://no-tls.omnipathdb.org/annotations?resources=UniProt_location&license=academic`
+[2024-01-27 23:38:56] [INFO]    [OmnipathR] Cache record does not exist: `http://no-tls.omnipathdb.org/annotations?resources=UniProt_location&license=academic`
+[2024-01-27 23:38:56] [TRACE]   [OmnipathR] Attempting `https://omnipathdb.org/annotations?resources=UniProt_location&license=academic`
+[2024-01-27 23:38:56] [INFO]    [OmnipathR] Retrieving URL: `https://omnipathdb.org/annotations?resources=UniProt_location&license=academic`
+[2024-01-27 23:38:56] [TRACE]   [OmnipathR] Attempt 1/3: `https://omnipathdb.org/annotations?resources=UniProt_location&license=academic`
+[2024-01-27 23:38:57] [INFO]    [OmnipathR] Successfully retrieved: `https://omnipathdb.org/annotations?resources=UniProt_location&license=academic`
+[2024-01-27 23:38:57] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:38:57] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:38:57] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:38:57] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:38:57] [INFO]    [OmnipathR] Cache item `f2e7cc5e753cd4e22d458171359dea86781ebae8` version 1: status changed from `unknown` to `started`.
+[2024-01-27 23:38:57] [TRACE]   [OmnipathR] Exporting object to RDS: `C:\Users\KD\AppData\Local\cache\OmnipathR/f2e7cc5e753cd4e22d458171359dea86781ebae8-1.rds`.
+[2024-01-27 23:38:57] [TRACE]   [OmnipathR] Exported RDS to `C:\Users\KD\AppData\Local\cache\OmnipathR/f2e7cc5e753cd4e22d458171359dea86781ebae8-1.rds`.
+[2024-01-27 23:38:57] [INFO]    [OmnipathR] Download ready [key=f2e7cc5e753cd4e22d458171359dea86781ebae8, version=1]
+[2024-01-27 23:38:57] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:38:57] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:38:57] [INFO]    [OmnipathR] Cache item `f2e7cc5e753cd4e22d458171359dea86781ebae8` version 1: status changed from `started` to `ready`.
+[2024-01-27 23:38:57] [SUCCESS] [OmnipathR] Downloaded 76260 annotation records.
+[2024-01-27 23:39:26] [TRACE]   [OmnipathR] Reading JSON from `https://omnipathdb.org/resources` (encoding: UTF-8).
+[2024-01-27 23:39:26] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:39:26] [TRACE]   [OmnipathR] Looking up in cache: `https://omnipathdb.org/annotations?resources=Uniprot_location&license=academic`
+[2024-01-27 23:39:26] [INFO]    [OmnipathR] Cache record does not exist: `https://omnipathdb.org/annotations?resources=Uniprot_location&license=academic`
+[2024-01-27 23:39:26] [TRACE]   [OmnipathR] Looking up in cache: `http://no-tls.omnipathdb.org/annotations?resources=Uniprot_location&license=academic`
+[2024-01-27 23:39:26] [INFO]    [OmnipathR] Cache record does not exist: `http://no-tls.omnipathdb.org/annotations?resources=Uniprot_location&license=academic`
+[2024-01-27 23:39:26] [TRACE]   [OmnipathR] Attempting `https://omnipathdb.org/annotations?resources=Uniprot_location&license=academic`
+[2024-01-27 23:39:26] [INFO]    [OmnipathR] Retrieving URL: `https://omnipathdb.org/annotations?resources=Uniprot_location&license=academic`
+[2024-01-27 23:39:26] [TRACE]   [OmnipathR] Attempt 1/3: `https://omnipathdb.org/annotations?resources=Uniprot_location&license=academic`
+[2024-01-27 23:39:26] [INFO]    [OmnipathR] Successfully retrieved: `https://omnipathdb.org/annotations?resources=Uniprot_location&license=academic`
+[2024-01-27 23:39:26] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:39:26] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:39:26] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:39:26] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:39:26] [INFO]    [OmnipathR] Cache item `07dc3ca232cbc620ab6be7d21a3a41bfc7b2d3e1` version 1: status changed from `unknown` to `started`.
+[2024-01-27 23:39:26] [TRACE]   [OmnipathR] Exporting object to RDS: `C:\Users\KD\AppData\Local\cache\OmnipathR/07dc3ca232cbc620ab6be7d21a3a41bfc7b2d3e1-1.rds`.
+[2024-01-27 23:39:26] [TRACE]   [OmnipathR] Exported RDS to `C:\Users\KD\AppData\Local\cache\OmnipathR/07dc3ca232cbc620ab6be7d21a3a41bfc7b2d3e1-1.rds`.
+[2024-01-27 23:39:26] [INFO]    [OmnipathR] Download ready [key=07dc3ca232cbc620ab6be7d21a3a41bfc7b2d3e1, version=1]
+[2024-01-27 23:39:26] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:39:26] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:39:26] [INFO]    [OmnipathR] Cache item `07dc3ca232cbc620ab6be7d21a3a41bfc7b2d3e1` version 1: status changed from `started` to `ready`.
+[2024-01-27 23:39:27] [SUCCESS] [OmnipathR] Downloaded 0 annotation records.
+[2024-01-27 23:40:03] [FATAL]   [OmnipathR] Downloading the entire annotations database is not allowed by default because of its huge size (>1GB). If you really want to do that, you find static files at https://archive.omnipathdb.org/. However we recommend to query a set of proteins or a few resources, depending on your interest.
+[2024-01-27 23:40:30] [TRACE]   [OmnipathR] Reading JSON from `https://omnipathdb.org/resources` (encoding: UTF-8).
+[2024-01-27 23:40:30] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:40:30] [TRACE]   [OmnipathR] Looking up in cache: `https://omnipathdb.org/annotations?resources=UniProt_location&license=academic`
+[2024-01-27 23:40:30] [TRACE]   [OmnipathR] Loaded data from RDS `C:\Users\KD\AppData\Local\cache\OmnipathR/f2e7cc5e753cd4e22d458171359dea86781ebae8-1.rds`.
+[2024-01-27 23:40:30] [INFO]    [OmnipathR] Loaded from cache: `https://omnipathdb.org/annotations?resources=UniProt_location&license=academic`
+[2024-01-27 23:40:30] [SUCCESS] [OmnipathR] Loaded 76260 annotation records from cache.
+[2024-01-27 23:40:48] [TRACE]   [OmnipathR] Reading JSON from `https://omnipathdb.org/resources` (encoding: UTF-8).
+[2024-01-27 23:40:48] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:40:48] [TRACE]   [OmnipathR] Looking up in cache: `https://omnipathdb.org/annotations?resources=HPA_tissue&proteins=DLL1,MEIS2,PHOX2A,BACH1,KLF11,FOXO3,MEFV&license=academic`
+[2024-01-27 23:40:48] [INFO]    [OmnipathR] Cache record does not exist: `https://omnipathdb.org/annotations?resources=HPA_tissue&proteins=DLL1,MEIS2,PHOX2A,BACH1,KLF11,FOXO3,MEFV&license=academic`
+[2024-01-27 23:40:48] [TRACE]   [OmnipathR] Looking up in cache: `http://no-tls.omnipathdb.org/annotations?resources=HPA_tissue&proteins=DLL1,MEIS2,PHOX2A,BACH1,KLF11,FOXO3,MEFV&license=academic`
+[2024-01-27 23:40:48] [INFO]    [OmnipathR] Cache record does not exist: `http://no-tls.omnipathdb.org/annotations?resources=HPA_tissue&proteins=DLL1,MEIS2,PHOX2A,BACH1,KLF11,FOXO3,MEFV&license=academic`
+[2024-01-27 23:40:48] [TRACE]   [OmnipathR] Attempting `https://omnipathdb.org/annotations?resources=HPA_tissue&proteins=DLL1,MEIS2,PHOX2A,BACH1,KLF11,FOXO3,MEFV&license=academic`
+[2024-01-27 23:40:48] [INFO]    [OmnipathR] Retrieving URL: `https://omnipathdb.org/annotations?resources=HPA_tissue&proteins=DLL1,MEIS2,PHOX2A,BACH1,KLF11,FOXO3,MEFV&license=academic`
+[2024-01-27 23:40:48] [TRACE]   [OmnipathR] Attempt 1/3: `https://omnipathdb.org/annotations?resources=HPA_tissue&proteins=DLL1,MEIS2,PHOX2A,BACH1,KLF11,FOXO3,MEFV&license=academic`
+[2024-01-27 23:40:50] [INFO]    [OmnipathR] Successfully retrieved: `https://omnipathdb.org/annotations?resources=HPA_tissue&proteins=DLL1,MEIS2,PHOX2A,BACH1,KLF11,FOXO3,MEFV&license=academic`
+[2024-01-27 23:40:50] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:40:50] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:40:50] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:40:50] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:40:50] [INFO]    [OmnipathR] Cache item `92ead83eb455386da8cefb938ee16521d1b5f02d` version 1: status changed from `unknown` to `started`.
+[2024-01-27 23:40:50] [TRACE]   [OmnipathR] Exporting object to RDS: `C:\Users\KD\AppData\Local\cache\OmnipathR/92ead83eb455386da8cefb938ee16521d1b5f02d-1.rds`.
+[2024-01-27 23:40:50] [TRACE]   [OmnipathR] Exported RDS to `C:\Users\KD\AppData\Local\cache\OmnipathR/92ead83eb455386da8cefb938ee16521d1b5f02d-1.rds`.
+[2024-01-27 23:40:50] [INFO]    [OmnipathR] Download ready [key=92ead83eb455386da8cefb938ee16521d1b5f02d, version=1]
+[2024-01-27 23:40:50] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:40:50] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:40:50] [INFO]    [OmnipathR] Cache item `92ead83eb455386da8cefb938ee16521d1b5f02d` version 1: status changed from `started` to `ready`.
+[2024-01-27 23:40:50] [SUCCESS] [OmnipathR] Downloaded 3870 annotation records.
+[2024-01-27 23:41:06] [TRACE]   [OmnipathR] Reading JSON from `https://omnipathdb.org/resources` (encoding: UTF-8).
+[2024-01-27 23:41:06] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:41:06] [TRACE]   [OmnipathR] Looking up in cache: `https://omnipathdb.org/annotations?resources=SignaLink_pathway&license=academic`
+[2024-01-27 23:41:06] [INFO]    [OmnipathR] Cache record does not exist: `https://omnipathdb.org/annotations?resources=SignaLink_pathway&license=academic`
+[2024-01-27 23:41:06] [TRACE]   [OmnipathR] Looking up in cache: `http://no-tls.omnipathdb.org/annotations?resources=SignaLink_pathway&license=academic`
+[2024-01-27 23:41:06] [INFO]    [OmnipathR] Cache record does not exist: `http://no-tls.omnipathdb.org/annotations?resources=SignaLink_pathway&license=academic`
+[2024-01-27 23:41:06] [TRACE]   [OmnipathR] Attempting `https://omnipathdb.org/annotations?resources=SignaLink_pathway&license=academic`
+[2024-01-27 23:41:06] [INFO]    [OmnipathR] Retrieving URL: `https://omnipathdb.org/annotations?resources=SignaLink_pathway&license=academic`
+[2024-01-27 23:41:06] [TRACE]   [OmnipathR] Attempt 1/3: `https://omnipathdb.org/annotations?resources=SignaLink_pathway&license=academic`
+[2024-01-27 23:41:07] [INFO]    [OmnipathR] Successfully retrieved: `https://omnipathdb.org/annotations?resources=SignaLink_pathway&license=academic`
+[2024-01-27 23:41:07] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:41:07] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:41:07] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:41:07] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:41:07] [INFO]    [OmnipathR] Cache item `48f6d1c796292ce438ca19de4baf3e99ff368b61` version 1: status changed from `unknown` to `started`.
+[2024-01-27 23:41:07] [TRACE]   [OmnipathR] Exporting object to RDS: `C:\Users\KD\AppData\Local\cache\OmnipathR/48f6d1c796292ce438ca19de4baf3e99ff368b61-1.rds`.
+[2024-01-27 23:41:07] [TRACE]   [OmnipathR] Exported RDS to `C:\Users\KD\AppData\Local\cache\OmnipathR/48f6d1c796292ce438ca19de4baf3e99ff368b61-1.rds`.
+[2024-01-27 23:41:07] [INFO]    [OmnipathR] Download ready [key=48f6d1c796292ce438ca19de4baf3e99ff368b61, version=1]
+[2024-01-27 23:41:07] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\KD\AppData\Local\cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2024-01-27 23:41:07] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-01-27 23:41:07] [INFO]    [OmnipathR] Cache item `48f6d1c796292ce438ca19de4baf3e99ff368b61` version 1: status changed from `started` to `ready`.
+[2024-01-27 23:41:07] [SUCCESS] [OmnipathR] Downloaded 2487 annotation records.
